@@ -1,5 +1,5 @@
-# Will You Be My Valentine? 💝
-This project is a playful and interactive webpage designed to creatively ask someone to be your Valentine. With cute visuals and dynamic elements, it adds a fun and memorable touch to the experience!
+# Will You Be My Boyfriend? 💝
+This project is a playful and interactive webpage designed to creatively ask someone to be your Boyfriend. With cute visuals and dynamic elements, it adds a fun and memorable touch to the experience!
 
 
 <img src="images/bugcat_capoo.gif" alt="Bugcat Capoo GIF">
